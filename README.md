@@ -12,7 +12,7 @@ This repository contains an implementation of a simple autoencoder using PyTorch
 ## Usage
 
 1. Clone the repository:
-```git clone https://github.com/your-username/autoencoder.git```
+`git clone https://github.com/your-username/autoencoder.git`
 
 2. Open the `AutoEncoders_Pytorch.ipynb` or `AutoEncoders_Tensorflow.ipynb` file in Jupyter Notebook or any compatible environment.
 
@@ -33,8 +33,8 @@ The following dependencies are required to run the code:
 
 You can install the necessary packages using the following command:
 
-pip install torch torchvision jupyter notebook
-pip install tensorflow keras numpy matplotlib
+`pip install torch torchvision jupyter notebook`
+`pip install tensorflow keras numpy matplotlib`
 
 
 Note: Make sure you have a compatible GPU and the required drivers installed if you want to leverage GPU acceleration with TensorFlow or Pytorch.
