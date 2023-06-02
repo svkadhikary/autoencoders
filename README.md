@@ -12,9 +12,7 @@ This repository contains an implementation of a simple autoencoder using PyTorch
 ## Usage
 
 1. Clone the repository:
-'''
-git clone https://github.com/your-username/autoencoder.git
-'''
+'''git clone https://github.com/your-username/autoencoder.git'''
 
 2. Open the `AutoEncoders_Pytorch.ipynb` or `AutoEncoders_Tensorflow.ipynb` file in Jupyter Notebook or any compatible environment.
 
